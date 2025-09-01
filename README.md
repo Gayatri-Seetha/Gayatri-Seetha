@@ -1,12 +1,12 @@
 ## 👩‍💻 About Me
 
-Hi, I’m Gayatri Seetha 👋 — a 3rd-year B.Tech CSE (AI & ML) student at SR University, Warangal with a strong interest in software development, AI, and problem-solving.
+Hi, I’m Gayatri Seetha 👋 — final year B.Tech CSE (AI & ML) student at SR University, Warangal with a strong interest in software development, AI, and problem-solving.
 
 I love building projects that combine creativity with technology — from AI-driven health monitoring systems to web applications like CineSnax, my movie snack ordering platform. I enjoy exploring how AI, cloud computing, and machine learning can solve unnoticed real-world problems in education, healthcare, and sustainability.
 
 🔹 Current Focus:
 
-Strengthening my knowledge in AI/ML, Cloud, and Full-Stack Development
+Strengthening my knowledge in AI/ML, Cloud, and MERN-Stack Development
 
 Working on projects like AI Career Path Recommender to bridge the skill gap for students
 
@@ -18,7 +18,7 @@ Languages: Python, Java, C, C++, SQL, JavaScript, HTML, CSS
 
 AI/ML: Scikit-learn, TensorFlow, PyTorch (basics), Data Preprocessing, NLP
 
-Web Development: React, Node.js, Flask, REST APIs
+Web Development: React, Node.js, REST APIs
 
 Cloud & Tools: AWS Academy Cloud Foundations, Azure Fundamentals, Git
 
