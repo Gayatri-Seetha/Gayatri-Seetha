@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br><!--<br>**Gayatri-Seetha/Gayatri-Seetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on DS using python<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on MERN stack<br>- 🤔 I’m looking for help with Full stack development<br>- 💬 Ask me about DSA, Html, CSS, JS, C, Python<br>- 📫 How to reach me: www.linkedin.com/in/gayatriseetha<br>
+## Hi there 👋- 🔭 I’m currently working on DS using python<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on MERN stack<br>- 🤔 I’m looking for help with Full stack development<br>- 💬 Ask me about DSA, Html, CSS, JS, C, Python<br>- 📫 How to reach me: www.linkedin.com/in/gayatriseetha<br>
 
 
 ## 🌐 Socials:
