@@ -1,5 +1,31 @@
-# 💫 About Me:
-## Hi there 👋- 🔭 I’m currently working on DS using python<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on MERN stack<br>- 🤔 I’m looking for help with Full stack development<br>- 💬 Ask me about DSA, Html, CSS, JS, C, Python<br>- 📫 How to reach me: www.linkedin.com/in/gayatriseetha<br>
+## 👩‍💻 About Me
+
+Hi, I’m Gayatri Seetha 👋 — a 3rd-year B.Tech CSE (AI & ML) student at SR University, Warangal with a strong interest in software development, AI, and problem-solving.
+
+I love building projects that combine creativity with technology — from AI-driven health monitoring systems to full-stack web applications like CineSnax, my movie snack ordering platform. I enjoy exploring how AI, cloud computing, and machine learning can solve unnoticed real-world problems in education, healthcare, and sustainability.
+
+🔹 Current Focus:
+
+Strengthening my knowledge in AI/ML, Cloud, and Full-Stack Development
+
+Working on projects like AI Career Path Recommender to bridge the skill gap for students
+
+Exploring DevOps & cloud solutions (AWS & Azure) for scalable applications
+
+🔹 Tech Skills:
+
+Languages: Python, Java, C, SQL, JavaScript, HTML, CSS
+
+AI/ML: Scikit-learn, TensorFlow, PyTorch (basics), Data Preprocessing, NLP
+
+Web Development: React, Node.js, Flask, REST APIs
+
+Cloud & Tools: AWS Academy Cloud Foundations, Azure Fundamentals, Git, Docker (basics)
+
+Databases: MySQL, MongoDB
+
+🔹 What drives me:
+I believe technology is most powerful when it solves real problems. My goal is to grow as a problem-solver and innovator, contributing to impactful projects in AI, cloud, and software engineering.- 🔭 I’m currently working on DS using python<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on MERN stack<br>- 🤔 I’m looking for help with Full stack development<br>- 💬 Ask me about DSA, Html, CSS, JS, C, Python<br>- 📫 How to reach me: www.linkedin.com/in/gayatriseetha<br>
 
 
 ## 🌐 Socials:
