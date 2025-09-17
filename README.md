@@ -26,7 +26,7 @@ Databases: MySQL, MongoDB
 
 🔹 What drives me:
 
-I believe technology is most powerful when it solves real problems. My goal is to grow as a problem-solver and innovator, contributing to impactful projects in AI, cloud, and software engineering.- 🔭 I’m currently working on DS using python<br>- 🌱 I’m currently learning MERN stack<br>- 👯 I’m looking to collaborate on MERN stack<br>- 🤔 I’m looking for help with Full stack development<br>- 💬 Ask me about DSA, Html, CSS, JS, C, Python<br>- 📫 How to reach me: www.linkedin.com/in/gayatriseetha<br>
+I believe technology is most powerful when it solves real problems. My goal is to grow as a problem-solver and innovator, contributing to impactful projects in AI, cloud, and software engineering.- 🔭 I’m currently working on DSA<br>- 🌱 I’m currently learning React<br>- 🤔 I’m looking for help with MERN stack development<br>- 💬 Ask me about DSA, Html, CSS, JS, C, Python<br>- 📫 How to reach me: www.linkedin.com/in/gayatriseetha<br>
 
 
 ## 🌐 Socials:
